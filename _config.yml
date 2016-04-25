@@ -1,0 +1,28 @@
+name: Mountain Point
+favicon: null
+layout_spectrum: 0.525957306381315
+typography_spectrum: 0.07244925666600466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.39532392541877925
+  lightness: 0.44928479683585465
+  saturation: 0.6232884898781776
+  rhythmicContrast: 0.7855042251758277
+purpose: []
