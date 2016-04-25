@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mountain Point]]></title>
+        <description><![CDATA[Mountain Point]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 14:58:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mountain Point - Cloud ERP and Salesforce.com Consultants]]></title>
+            <description><![CDATA[<article><h1>Mountain Point - Cloud ERP and Salesforce.com Consultants</h1><p>A digital transformation firm, specializing on the Salesforce Platform, stitching together innovative solutions for organizations moving to the cloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7481fcdeb2c19d9ac8997cbc01f58da26a423f5.png"></article>]]></description>
+            <link>http://mountainpoint.com/</link>
+            <guid isPermaLink="false">5440c36d-2669-49ff-af53-8c162b6b3a1f</guid>
+            <pubDate>Mon, 25 Apr 2016 14:57:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
